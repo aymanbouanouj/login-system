@@ -44,10 +44,6 @@ login-system/
 │
 └── login_system.sql # Database structure
 
-yaml
-Copy code
-
----
 
 ##  Database Setup
 
